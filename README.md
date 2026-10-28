@@ -34,3 +34,4 @@ en un compilador en línea o en Visual Studio.
 
 | 02 | Intercambio sin variable auxiliar | ⏳ |
 
+| 03 | Promedio Pondereado | P |
