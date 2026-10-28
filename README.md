@@ -8,7 +8,7 @@ del programa ADSO (SENA). Cada ejercicio vive en su propia carpeta.
 
 
 
-\- \*\*Aprendiz:\*\* Laura Ríos
+\- \*\*Aprendiz:\*\* Gabriel Blanco
 
 \- \*\*Ficha:\*\* 283741
 

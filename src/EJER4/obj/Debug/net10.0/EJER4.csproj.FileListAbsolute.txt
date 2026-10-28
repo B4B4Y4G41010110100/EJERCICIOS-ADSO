@@ -1,0 +1,16 @@
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.AssemblyInfoInputs.cache
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.AssemblyInfo.cs
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.csproj.CoreCompileInputs.cache
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.sourcelink.json
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\bin\Debug\net10.0\EJER4.exe
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\bin\Debug\net10.0\EJER4.deps.json
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\bin\Debug\net10.0\EJER4.runtimeconfig.json
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\bin\Debug\net10.0\EJER4.dll
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\bin\Debug\net10.0\EJER4.pdb
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.dll
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\refint\EJER4.dll
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.pdb
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.genruntimeconfig.cache
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\ref\EJER4.dll
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\EJER4\obj\Debug\net10.0\EJER4.csproj.Up2Date
