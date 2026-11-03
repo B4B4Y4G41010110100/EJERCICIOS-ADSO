@@ -1,0 +1,5 @@
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\pracrica\obj\Debug\net10.0\pracrica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\pracrica\obj\Debug\net10.0\pracrica.AssemblyInfoInputs.cache
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\pracrica\obj\Debug\net10.0\pracrica.AssemblyInfo.cs
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\pracrica\obj\Debug\net10.0\pracrica.csproj.CoreCompileInputs.cache
+D:\Portafolio De Gabriel\Proyectos\Ejercicios-Secuenciales\src\pracrica\obj\Debug\net10.0\pracrica.sourcelink.json
